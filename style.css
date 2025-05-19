@@ -1,0 +1,19 @@
+body
+{
+    font-family: Arial, sans-serif;
+    background-color: rgb(134, 207, 207);
+    display: flex; justify-content: center; align-items: center,  
+}
+.form-container{  background-color: rgb(228, 171, 199);
+    padding: 20px
+
+}  
+.form-container h2 { text-align: center;
+    margin-bottom: 20px
+}
+.form-group input {
+    width:100px;
+padding: 8px;
+border-radius:20px ;
+margin-bottom: 10px;
+ }
